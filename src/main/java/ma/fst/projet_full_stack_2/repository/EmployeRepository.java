@@ -1,6 +1,6 @@
 package ma.fst.projet_full_stack_2.repository;
 
-import ma.fst.projet_full_stack_2.Employe;
+import ma.fst.projet_full_stack_2.entities.Employe;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 import java.util.Optional;
