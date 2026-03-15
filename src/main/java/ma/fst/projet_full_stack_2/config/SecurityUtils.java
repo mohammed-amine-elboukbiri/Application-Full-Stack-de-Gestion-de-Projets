@@ -1,4 +1,4 @@
-package ma.fst.projet_full_stack_2.Config;
+package ma.fst.projet_full_stack_2.config;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Component;
