@@ -1,4 +1,4 @@
-package ma.fst.projet_full_stack_2.Config;
+package ma.fst.projet_full_stack_2.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

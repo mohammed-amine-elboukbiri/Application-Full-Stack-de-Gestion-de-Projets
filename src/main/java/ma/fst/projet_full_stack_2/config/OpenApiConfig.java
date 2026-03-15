@@ -1,4 +1,4 @@
-package ma.fst.projet_full_stack_2.Config;
+package ma.fst.projet_full_stack_2.config;
 
 import io.swagger.v3.oas.models.*;
 import io.swagger.v3.oas.models.info.Info;
