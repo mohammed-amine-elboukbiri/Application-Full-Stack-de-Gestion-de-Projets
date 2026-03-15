@@ -1,6 +1,6 @@
 package ma.fst.projet_full_stack_2.repository;
 
-import ma.fst.projet_full_stack_2.Phase;
+import ma.fst.projet_full_stack_2.entities.Phase;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.time.LocalDate;
