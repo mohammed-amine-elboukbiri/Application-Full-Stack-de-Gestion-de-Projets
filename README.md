@@ -233,44 +233,7 @@ La vidéo couvre :
 
 ---
 
-## 📖 Documentation API (Swagger)
-
-> 🔗 **[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)**
-
----
-
-## 🧪 Tests
-
-- Tests unitaires : JUnit 5 + Mockito (services & repositories)
-- Tests d'intégration : Spring Boot Test
-- Tests API : Postman Collection disponible dans `/docs/postman/`
-
----
-
-## 🐋 Conteneurisation
-
-| Fichier | Rôle |
-|---|---|
-| `backend/Dockerfile` | Image du serveur Spring Boot |
-| `frontend/Dockerfile` | Image de l'application React (Nginx) |
-| `docker-compose.yml` | Orchestration des 3 services (backend, frontend, mysql) |
-
----
-
-## 👨‍💻 Auteurs
-
-| Nom | Profile |
-|---|---|
-| **Othmane EL MATLINI** | https://github.com/OTHMANE-ELM |
-| **Amine BAANI** | https://github.com/baaniamine |
-| **Mohammed Amine EL BOUKBIRI** | https://github.com/mohammed-amine-elboukbiri |
-
----
-
-
-
-
-## TEST Profil et Login
+## 📖 TEST Profil et Login : 
 
 https://github.com/user-attachments/assets/6c8f2faf-64b1-4dc5-b533-d9a2b8f30e03
 
@@ -305,6 +268,42 @@ https://github.com/user-attachments/assets/6c7e3e5d-2e3f-49bd-88ca-4885b9f41963
 ## TEST Affectation
 
 https://github.com/user-attachments/assets/7a6374ca-cd39-4f56-84bd-6f0b5b4cb915
+
+
+## 🧪 Tests
+
+- Tests unitaires : JUnit 5 + Mockito (services & repositories)
+- Tests d'intégration : Spring Boot Test
+- Tests API : Postman Collection disponible dans `/docs/postman/`
+
+---
+
+## 🐋 Conteneurisation
+
+| Fichier | Rôle |
+|---|---|
+| `backend/Dockerfile` | Image du serveur Spring Boot |
+| `frontend/Dockerfile` | Image de l'application React (Nginx) |
+| `docker-compose.yml` | Orchestration des 3 services (backend, frontend, mysql) |
+
+---
+
+## 👨‍💻 Auteurs
+
+| Nom | Profile |
+|---|---|
+| **Othmane EL MATLINI** | https://github.com/OTHMANE-ELM |
+| **Amine BAANI** | https://github.com/baaniamine |
+| **Mohammed Amine EL BOUKBIRI** | https://github.com/mohammed-amine-elboukbiri |
+
+---
+
+
+
+
+
+
+
 
 
 
