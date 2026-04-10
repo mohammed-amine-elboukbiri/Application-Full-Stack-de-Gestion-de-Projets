@@ -237,7 +237,7 @@ La vidéo couvre :
 - Dashboard et reporting
 
 ---
-## Conteneurisation avec Docker : 
+## 🐳Conteneurisation avec Docker : 
 
 ### docker ps : 
 
