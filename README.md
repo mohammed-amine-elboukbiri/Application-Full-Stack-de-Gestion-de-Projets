@@ -237,6 +237,26 @@ La vidéo couvre :
 - Dashboard et reporting
 
 ---
+## Conteneurisation avec Docker : 
+
+### docker ps : 
+
+![1](https://github.com/user-attachments/assets/163428e8-55f7-47b5-9540-d7d0fb6237e8)
+
+### docker compose up --build : 
+
+![2](https://github.com/user-attachments/assets/95f6452c-8fc0-4ae8-bc32-79e6406bbd3d)
+
+
+### docker compose up -d : 
+
+![3](https://github.com/user-attachments/assets/55dc408b-b6de-41c9-896d-994a55e6c202)
+
+### docker compose ps : 
+
+![4](https://github.com/user-attachments/assets/58476a54-7f1e-4a93-a9c2-fd38410a3dbc)
+
+
 
 ## 📖 TEST Profil et Login : 
 
