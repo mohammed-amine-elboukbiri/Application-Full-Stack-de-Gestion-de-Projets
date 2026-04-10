@@ -222,7 +222,12 @@ npm start
 
 ## 🎬 Vidéo de démonstration
 
-> 📹 **[Cliquez ici pour regarder la démo complète](https://www.youtube.com/watch?v=VOTRE_LIEN)**
+> 📹
+
+
+https://github.com/user-attachments/assets/49651bd7-a6e6-4d83-ab3d-a0e0612af6ef
+
+
 
 La vidéo couvre :
 - Connexion et gestion des rôles
