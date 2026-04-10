@@ -99,30 +99,9 @@ Les sociétés de services peinent à gérer efficacement leurs projets faute d'
 
 ## 📁 Structure du projet
 
-```
-projet-suivi/
-├── backend/
-│   ├── src/
-│   │   ├── main/java/com/projettrack/
-│   │   │   ├── controllers/
-│   │   │   ├── services/
-│   │   │   ├── repositories/
-│   │   │   ├── models/
-│   │   │   └── security/
-│   │   └── resources/
-│   │       └── application.properties
-│   └── pom.xml
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   └── store/
-│   └── package.json
-│
-└── docker-compose.yml
-```
+<img width="384" height="852" alt="Screenshot 2026-04-10 at 20 56 41" src="https://github.com/user-attachments/assets/4958e6f3-bafd-451c-b024-89adb8ead670" />
+<img width="442" height="973" alt="Screenshot 2026-04-10 at 20 57 45" src="https://github.com/user-attachments/assets/a1d88727-4de8-4052-8c48-c99506794da0" />
+
 
 ---
 
