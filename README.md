@@ -148,8 +148,8 @@ cd projet-suivi
 docker-compose up --build
 ```
 
-> L'application sera disponible sur `http://localhost:3000`  
-> L'API backend sur `http://localhost:8080`
+> L'application sera disponible sur `http://localhost:5173`  
+> L'API backend sur `http://localhost:8081`
 
 ---
 
