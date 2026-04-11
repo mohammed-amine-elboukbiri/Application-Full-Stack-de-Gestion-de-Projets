@@ -180,21 +180,29 @@ npm start
 
 ---
 
-## 🎬 Vidéo de démonstration
+## 🎬 Vidéos de démonstration
 
-> 📹
-
-
-https://github.com/user-attachments/assets/49651bd7-a6e6-4d83-ab3d-a0e0612af6ef
+> 📹 demonstration de l'interface du Secretaire, Administrateur et Directeur
 
 
+https://github.com/user-attachments/assets/b3e78adc-4d60-4e20-9b36-534fb7735d1f
 
-La vidéo couvre :
-- Connexion et gestion des rôles
-- Création et suivi d'un projet complet
-- Gestion des phases et livrables
-- Suivi financier (comptable)
-- Dashboard et reporting
+
+
+> 📹 demonstration de l'interface du Chef de Projet
+
+https://github.com/user-attachments/assets/28aeced7-e8ac-4ce2-a9e2-11535157ad59
+
+
+> 📹 demonstration de l'interface du Comptable
+
+https://github.com/user-attachments/assets/a60858e5-5587-4e09-b397-1bb1dea4b939
+
+
+
+
+
+
 
 ---
 ## 🐳Conteneurisation avec Docker : 
